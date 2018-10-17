@@ -1,4 +1,13 @@
 {
+    "Teachers": [
+    {"TeacherId": 1, "id": 1, "Name": "Prof 1" },
+    {"TeacherId": 2, "id": 2, "Name": "Prof 2" },
+    {"TeacherId": 3, "id": 3, "Name": "Prof 3" },
+    {"TeacherId": 4,
+    "id": 4,
+    "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+    "Post 4": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+  },
   "posts": [
     {"userId": 1, "id": 1, "title": "Post 1" },
     {"userId": 2, "id": 2, "title": "Post 2" },
