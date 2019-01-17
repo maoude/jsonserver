@@ -1,0 +1,409 @@
+{
+    "information": {
+        "currentGPA": "3.4333",
+        "currentMealBalance": "0.0",
+        "currentTerm": "T1",
+        "dcid": "10000",
+        "dob": "2001-06-01T16:00:00.000Z",
+        "ethnicity": null,
+        "firstName": "Liu",
+        "gender": "M",
+        "gradeLevel": "11",
+        "guardianAccessDisabled": "false",
+        "id": "10000",
+        "lastName": "Wu",
+        "middleName": "John",
+        "photoDate": "2017-10-25T16:16:39.469Z",
+        "startingMealBalance": "0.0"
+    },
+    "sections": [
+        {
+            "assignments": [
+                {
+                    "category": "Quizzes",
+                    "description": "Significant digits, scientific notation and v/t graphs",
+                    "name": "Quiz 1 Chapter 1",
+                    "percent": "97.83",
+                    "score": "23",
+                    "letterGrade": "A",
+                    "pointsPossible": "46.0",
+                    "date": "2017-09-10T16:00:00.000Z",
+                    "weight": "0.22",
+                    "includeInFinalGrade": "1",
+                    "terms": [
+                        "S1",
+                        "T1",
+                        "Y1"
+                    ]
+                }
+            ],
+            "expression": "1(A-E)",
+            "startDate": "2017-09-05T16:00:00.000Z",
+            "endDate": "2018-01-21T16:00:00.000Z",
+            "finalGrades": {
+                "X1": {
+                    "percent": "0.0",
+                    "letter": "--",
+                    "comment": null,
+                    "eval": "--",
+                    "startDate": 1515945600,
+                    "endDate": 1515945600
+                },
+                "T2": {
+                    "percent": "99.0",
+                    "letter": "A",
+                    "comment": "Student shows exceptional potential in Science. Excellent progress. ",
+                    "eval": "M",
+                    "startDate": 1510502400,
+                    "endDate": 1510502400
+                },
+                "T1": {
+                    "percent": "89.0",
+                    "letter": "A",
+                    "comment": "Student shows exceptional potential in Science. Student shows excellent participation and displays a great attitude every class. ",
+                    "eval": "M",
+                    "startDate": 1504195200,
+                    "endDate": 1504195200
+                },
+                "S1": {
+                    "percent": "93.0",
+                    "letter": "A",
+                    "comment": null,
+                    "eval": "M",
+                    "startDate": 1504195200,
+                    "endDate": 1504195200
+                }
+            },
+            "name": "Physics 11",
+            "roomName": "203",
+            "teacher": {
+                "firstName": "John",
+                "lastName": "Doe",
+                "email": "fake_email@email.com",
+                "schoolPhone": null
+            }
+        },
+        {
+            "assignments": [
+                {
+                    "category": "Quizzes",
+                    "description": "Significant digits, scientific notation and v/t graphs",
+                    "name": "Quiz 1 Chapter 1",
+                    "percent": "97.83",
+                    "score": "18",
+                    "letterGrade": "A",
+                    "pointsPossible": "46.0",
+                    "date": "2017-09-10T16:00:00.000Z",
+                    "weight": "0.22",
+                    "includeInFinalGrade": "1",
+                    "terms": [
+                        "S1",
+                        "T1",
+                        "Y1"
+                    ]
+                }
+            ],
+            "expression": "2(A-J)",
+            "startDate": "2017-09-05T16:00:00.000Z",
+            "endDate": "2018-01-21T16:00:00.000Z",
+            "finalGrades": {
+                "X1": {
+                    "percent": "0.0",
+                    "letter": "--",
+                    "comment": null,
+                    "eval": "--",
+                    "startDate": 1515945600,
+                    "endDate": 1515945600
+                },
+                "T2": {
+                    "percent": "99.0",
+                    "letter": "A",
+                    "comment": "Student shows exceptional potential in Science. Excellent progress. ",
+                    "eval": "M",
+                    "startDate": 1510502400,
+                    "endDate": 1510502400
+                },
+                "T1": {
+                    "percent": "89.0",
+                    "letter": "A",
+                    "comment": "Student shows exceptional potential in Science. Student shows excellent participation and displays a great attitude every class. ",
+                    "eval": "M",
+                    "startDate": 1504195200,
+                    "endDate": 1504195200
+                },
+                "S1": {
+                    "percent": "93.0",
+                    "letter": "A",
+                    "comment": null,
+                    "eval": "M",
+                    "startDate": 1504195200,
+                    "endDate": 1504195200
+                }
+            },
+            "name": "Physics 8",
+            "roomName": "203",
+            "teacher": {
+                "firstName": "John",
+                "lastName": "Doe",
+                "email": "fake_email@email.com",
+                "schoolPhone": null
+            }
+        },
+        {
+            "assignments": [],
+            "expression": "3(B-C,F,H)",
+            "startDate": "2017-09-05T16:00:00.000Z",
+            "endDate": "2018-01-21T16:00:00.000Z",
+            "finalGrades": {
+                "X1": {
+                    "percent": "0.0",
+                    "letter": "--",
+                    "comment": null,
+                    "eval": "--",
+                    "startDate": 1515945600,
+                    "endDate": 1515945600
+                },
+                "T2": {
+                    "percent": "99.0",
+                    "letter": "A",
+                    "comment": "Student shows exceptional potential in Science. Excellent progress. ",
+                    "eval": "M",
+                    "startDate": 1510502400,
+                    "endDate": 1510502400
+                },
+                "T1": {
+                    "percent": "89.0",
+                    "letter": "A",
+                    "comment": "Student shows exceptional potential in Science. Student shows excellent participation and displays a great attitude every class. ",
+                    "eval": "M",
+                    "startDate": 1504195200,
+                    "endDate": 1504195200
+                },
+                "S1": {
+                    "percent": "93.0",
+                    "letter": "A",
+                    "comment": null,
+                    "eval": "M",
+                    "startDate": 1504195200,
+                    "endDate": 1504195200
+                }
+            },
+            "name": "Physics 7",
+            "roomName": "203",
+            "teacher": {
+                "firstName": "John",
+                "lastName": "Doe",
+                "email": "fake_email@email.com",
+                "schoolPhone": null
+            }
+        },
+        {
+            "assignments": [],
+            "expression": "4(D,G)",
+            "startDate": "2017-09-05T16:00:00.000Z",
+            "endDate": "2018-01-21T16:00:00.000Z",
+            "finalGrades": {
+                "X1": {
+                    "percent": "0.0",
+                    "letter": "--",
+                    "comment": null,
+                    "eval": "--",
+                    "startDate": 1515945600,
+                    "endDate": 1515945600
+                },
+                "T2": {
+                    "percent": "99.0",
+                    "letter": "A",
+                    "comment": "Student shows exceptional potential in Science. Excellent progress. ",
+                    "eval": "M",
+                    "startDate": 1510502400,
+                    "endDate": 1510502400
+                },
+                "T1": {
+                    "percent": "89.0",
+                    "letter": "A",
+                    "comment": "Student shows exceptional potential in Science. Student shows excellent participation and displays a great attitude every class. ",
+                    "eval": "M",
+                    "startDate": 1504195200,
+                    "endDate": 1504195200
+                },
+                "S1": {
+                    "percent": "93.0",
+                    "letter": "A",
+                    "comment": null,
+                    "eval": "M",
+                    "startDate": 1504195200,
+                    "endDate": 1504195200
+                }
+            },
+            "name": "Physics 6",
+            "roomName": "203",
+            "teacher": {
+                "firstName": "John",
+                "lastName": "Doe",
+                "email": "fake_email@email.com",
+                "schoolPhone": null
+            }
+        },
+        {
+            "assignments": [],
+            "expression": "5(A,J)",
+            "startDate": "2017-09-05T16:00:00.000Z",
+            "endDate": "2018-01-21T16:00:00.000Z",
+            "finalGrades": {
+                "X1": {
+                    "percent": "0.0",
+                    "letter": "--",
+                    "comment": null,
+                    "eval": "--",
+                    "startDate": 1515945600,
+                    "endDate": 1515945600
+                },
+                "T2": {
+                    "percent": "99.0",
+                    "letter": "A",
+                    "comment": "Student shows exceptional potential in Science. Excellent progress. ",
+                    "eval": "M",
+                    "startDate": 1510502400,
+                    "endDate": 1510502400
+                },
+                "T1": {
+                    "percent": "89.0",
+                    "letter": "A",
+                    "comment": "Student shows exceptional potential in Science. Student shows excellent participation and displays a great attitude every class. ",
+                    "eval": "M",
+                    "startDate": 1504195200,
+                    "endDate": 1504195200
+                },
+                "S1": {
+                    "percent": "93.0",
+                    "letter": "A",
+                    "comment": null,
+                    "eval": "M",
+                    "startDate": 1504195200,
+                    "endDate": 1504195200
+                }
+            },
+            "name": "Physics 12",
+            "roomName": "203",
+            "teacher": {
+                "firstName": "John",
+                "lastName": "Doe",
+                "email": "fake_email@email.com",
+                "schoolPhone": null
+            }
+        },
+        {
+            "assignments": [],
+            "expression": "HR(A-J)",
+            "startDate": "2017-09-05T16:00:00.000Z",
+            "endDate": "2018-01-21T16:00:00.000Z",
+            "finalGrades": {
+                "X1": {
+                    "percent": "0.0",
+                    "letter": "--",
+                    "comment": null,
+                    "eval": "--",
+                    "startDate": 1515945600,
+                    "endDate": 1515945600
+                },
+                "T2": {
+                    "percent": "99.0",
+                    "letter": "A",
+                    "comment": "Student shows exceptional potential in Science. Excellent progress. ",
+                    "eval": "M",
+                    "startDate": 1510502400,
+                    "endDate": 1510502400
+                },
+                "T1": {
+                    "percent": "89.0",
+                    "letter": "A",
+                    "comment": "Student shows exceptional potential in Science. Student shows excellent participation and displays a great attitude every class. ",
+                    "eval": "M",
+                    "startDate": 1504195200,
+                    "endDate": 1504195200
+                },
+                "S1": {
+                    "percent": "93.0",
+                    "letter": "A",
+                    "comment": null,
+                    "eval": "M",
+                    "startDate": 1504195200,
+                    "endDate": 1504195200
+                }
+            },
+            "name": "Physics 10",
+            "roomName": "203",
+            "teacher": {
+                "firstName": "John",
+                "lastName": "Doe",
+                "email": "fake_email@email.com",
+                "schoolPhone": null
+            }
+        },
+        {
+            "assignments": [],
+            "expression": "N(A-E)",
+            "startDate": "2017-09-05T16:00:00.000Z",
+            "endDate": "2018-01-21T16:00:00.000Z",
+            "finalGrades": {
+                "X1": {
+                    "percent": "0.0",
+                    "letter": "--",
+                    "comment": null,
+                    "eval": "--",
+                    "startDate": 1515945600,
+                    "endDate": 1515945600
+                },
+                "T2": {
+                    "percent": "99.0",
+                    "letter": "A",
+                    "comment": "Student shows exceptional potential in Science. Excellent progress. ",
+                    "eval": "M",
+                    "startDate": 1510502400,
+                    "endDate": 1510502400
+                },
+                "T1": {
+                    "percent": "89.0",
+                    "letter": "A",
+                    "comment": "Student shows exceptional potential in Science. Student shows excellent participation and displays a great attitude every class. ",
+                    "eval": "M",
+                    "startDate": 1504195200,
+                    "endDate": 1504195200
+                },
+                "S1": {
+                    "percent": "93.0",
+                    "letter": "A",
+                    "comment": null,
+                    "eval": "M",
+                    "startDate": 1504195200,
+                    "endDate": 1504195200
+                }
+            },
+            "name": "Physics 9",
+            "roomName": "203",
+            "teacher": {
+                "firstName": "John",
+                "lastName": "Doe",
+                "email": "fake_email@email.com",
+                "schoolPhone": null
+            }
+        }
+    ],
+    "attendances": [
+        {
+            "code": "E",
+            "description": "Excused Absence",
+            "date": "2017-10-16T16:00:00.000Z",
+            "period": "3(B,D)",
+            "name": "Chinese Social Studies ' . rand(1, 12) . '"
+        },
+        {
+            "code": "I",
+            "description": "Illness",
+            "date": "2017-12-10T16:00:00.000Z",
+            "period": "1(A-E)",
+            "name": "Physics 11"
+        }
+    ]
+}
